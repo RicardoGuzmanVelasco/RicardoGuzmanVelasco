@@ -1,8 +1,8 @@
 ## About me
 
-🏳️‍🌈 Pronouns: He/Him.
+🏳️‍🌈 He/Him.
 
-🗺 Languages: Spanish, English.
+🗺 Spanish, English.
 
 <!--TBC.-->
 
