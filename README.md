@@ -34,6 +34,7 @@
 - Refactoring: Improving the Design of Existing Code; Martin Fowler (just revision).
 - Extreme Programming Explained; Kent Beck.
 - Continuous Delivery; Dave Farley & Jez Humble.
+- The Art of Unit Testing; Roy Osherove. 
 
 🔍 Favourite readings:
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
