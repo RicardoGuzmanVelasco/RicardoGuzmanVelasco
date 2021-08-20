@@ -21,6 +21,8 @@
 📖 Current readings:
 - Domain-Driven Design; Eric Evans.
 - The Mythical Man-Month; Fred Brooks.
+
+⏳ Post-poned readings:
 - The Gamedev Business Handbook; Michael Futter.
 - Clean Code in C#; Jason Alls. 
 
@@ -29,14 +31,14 @@
 - Working Effectively with Legacy Code; Michael C. Feathers.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 
-🔖 Next readings:
+🔍 Next readings:
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
 - Refactoring: Improving the Design of Existing Code; Martin Fowler (just revision).
 - Extreme Programming Explained; Kent Beck.
 - Continuous Delivery; Dave Farley & Jez Humble.
 - The Art of Unit Testing; Roy Osherove. 
 
-🔍 Favourite readings:
+💎 Favourite readings:
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
 
