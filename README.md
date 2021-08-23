@@ -24,26 +24,27 @@
 
 ### Technologies I'm used to ⚙
 
-<img align="left" alt="C#" width="26px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
-<img align="left" alt="Jetbrains Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
-<img align="left" alt="NUnit" width="26px" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" />
-<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-<img align="left" alt="SourceTree" width="26px" src="https://progsoft.net/images/sourcetree-icon-61d5ac298896aa69ee5840f8e8344b79aa74102b.png" />
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
-<img align="left" alt="BitBucket" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
-<img align="left" alt="Pull Request" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Octicons-git-pull-request.svg/1200px-Octicons-git-pull-request.svg.png" />
-<img align="left" alt="TeamCity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" />
-<img align="left" alt="GitHub Actions" width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" />
-<img align="left" alt="Playfab" width="26px" src="https://www.nuget.org/profiles/PlayFab/avatar?imageSize=512" />
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
-<img align="left" alt="Hack&Plan" width="26px" src="https://bricebelkadi.gallerycdn.vsassets.io/extensions/bricebelkadi/hacknplan/1.0.2/1606670551381/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Jira" width="26px" src="https://user-images.githubusercontent.com/11347395/130452913-93ffb477-ca80-4965-b271-6409303f9fd3.png" />
-<img align="left" alt="MarkDown" width="26px" src="https://user-images.githubusercontent.com/11347395/130453553-322c1932-e148-461e-b62f-c103f564b9b5.png" />
-<img align="left" alt="PlantUML" width="26px" src="https://plugins.jetbrains.com/files/7017/122599/icon/pluginIcon.svg" />
-<img align="left" alt="UML" width="24px" src="https://joanpaon.files.wordpress.com/2013/05/uml-symbol.gif" />
-<img align="left" alt="CleanCode" width="26px" src="https://lh3.googleusercontent.com/proxy/NVPGQwt449jFJHNvaa3ngNsXWRCXx23PCZkiyqiqRHFT3PyVSv2I__1GeH2yP-cMtaiZIvCJWRspwTAZ4_kOszMAf4Ucyw" />
-<img align="left" alt=".NET Foundation" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/.NET_Foundation_Logo.svg/2048px-.NET_Foundation_Logo.svg.png" />
+<img align="left" width="26px" title="C#" alt="C#" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
+<img align="left" width="26px" title="Jetbrains Rider" alt="Jetbrains Rider" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
+<img align="left" width="26px" title="Unity" alt="Unity" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
+<img align="left" width="26px" title="NUnit" alt="NUnit" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" />
+<img align="left" width="26px" title="Git" alt="Git" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
+<img align="left" width="26px" title="NUnit" alt="NUnit" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" />
+<img align="left" width="26px" title="Attlasian SourceTree" alt="SourceTree" src="https://progsoft.net/images/sourcetree-icon-61d5ac298896aa69ee5840f8e8344b79aa74102b.png" />
+<img align="left" width="26px" title="GitHub" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
+<img align="left" width="26px" title="Attlasian BitBucket" alt="BitBucket" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
+<img align="left" width="24px" title="Pull Request" alt="Pull Request" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Octicons-git-pull-request.svg/1200px-Octicons-git-pull-request.svg.png" />
+<img align="left" width="26px" title="TeamCity" alt="TeamCity" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" />
+<img align="left" width="26px" title="GitHub Actions" alt="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" />
+<img align="left" width="26px" title="Playfab" alt="Playfab" src="https://www.nuget.org/profiles/PlayFab/avatar?imageSize=512" />
+<img align="left" width="26px" title="Firebase" alt="Firebase" src="https://img.icons8.com/color/452/firebase.png" />
+<img align="left" width="26px" title="Hack&Plan" alt="Hack&Plan" src="https://bricebelkadi.gallerycdn.vsassets.io/extensions/bricebelkadi/hacknplan/1.0.2/1606670551381/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" width="26px" title="Attlasian Jira" alt="Jira" src="https://user-images.githubusercontent.com/11347395/130452913-93ffb477-ca80-4965-b271-6409303f9fd3.png" />
+<img align="left" width="26px" title="MarkDown" alt="MarkDown" src="https://user-images.githubusercontent.com/11347395/130453553-322c1932-e148-461e-b62f-c103f564b9b5.png" />
+<img align="left" width="26px" title="PlantUML" alt="PlantUML" src="https://plugins.jetbrains.com/files/7017/122599/icon/pluginIcon.svg" />
+<img align="left" width="24px" title="UML" alt="UML" src="https://joanpaon.files.wordpress.com/2013/05/uml-symbol.gif" />
+<img align="left" width="26px" title="CleanCode" alt="CleanCode" src="https://lh3.googleusercontent.com/proxy/NVPGQwt449jFJHNvaa3ngNsXWRCXx23PCZkiyqiqRHFT3PyVSv2I__1GeH2yP-cMtaiZIvCJWRspwTAZ4_kOszMAf4Ucyw" />
+<img align="left" width="26px" title=".NET Foundation" alt=".NET Foundation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/.NET_Foundation_Logo.svg/2048px-.NET_Foundation_Logo.svg.png" />
 
 <br />
 
