@@ -8,10 +8,10 @@
 🏳️‍🌈 He/Him.  
 🗺 Spanish, English.
 
-🎮👨‍💻 Gamedev.  
-🏗️🏭 Focus on software architecture & development processes.  
-🏛️🗼 Strong interest in well-known, established design principles.  
-👥🤝 Team culture as a cornerstone.
+- 🎮👨‍💻 Gamedev.  
+- 🏗️🏭 Focus on software architecture & development processes.  
+- 🏛️🗼 Strong interest in well-known, established design principles.  
+- 👥🤝 Team culture as a cornerstone.
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -49,7 +49,7 @@
 
 💡 Most-inspiring readings:
 - The Humble Programmer; Edsger W. Dijkstra.
-- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
+- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks. 🆕
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - TDD by Example; Kent Beck.
 
