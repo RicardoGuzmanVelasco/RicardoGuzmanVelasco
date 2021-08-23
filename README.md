@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rgvgamedev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frgvgamedev&screen_name=RGVgamedev)
 
-## About me 👤
+## About me
 
 🏳️‍🌈 He/Him.  
 🗺 Spanish, English.
@@ -13,7 +13,7 @@
 - 🏛️🗼 Strong interest in well-known, established design principles.  
 - 👥🤝 Team culture as a cornerstone.
 
-### Contact me! 📧
+### Contact me!
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -22,7 +22,7 @@
 
 <br />
 
-### Technologies I'm used to ⚙
+### Technologies I'm used to
 
 <img align="left" width="26px" height="26px" title="C#" alt="C#" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
 <img align="left" width="26px" height="26px" title="Jetbrains Rider" alt="Jetbrains Rider" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
@@ -49,7 +49,7 @@
 
 <br />
 
-## Readings 👀
+## Readings
 
 📖 Current readings:
 - Domain-Driven Design; Eric Evans.
