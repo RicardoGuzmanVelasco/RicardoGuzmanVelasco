@@ -29,7 +29,6 @@
 <img align="left" width="26px" title="Unity" alt="Unity" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
 <img align="left" width="26px" title="NUnit" alt="NUnit" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" />
 <img align="left" width="26px" title="Git" alt="Git" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-<img align="left" width="26px" title="NUnit" alt="NUnit" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" />
 <img align="left" width="26px" title="Attlasian SourceTree" alt="SourceTree" src="https://progsoft.net/images/sourcetree-icon-61d5ac298896aa69ee5840f8e8344b79aa74102b.png" />
 <img align="left" width="26px" title="GitHub" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
 <img align="left" width="26px" title="Attlasian BitBucket" alt="BitBucket" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
