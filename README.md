@@ -44,5 +44,6 @@
 
 💡 Most-inspiring readings:
 - The Humble Programmer; Edsger W. Dijkstra.
+- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - TDD by Example; Kent Beck.
