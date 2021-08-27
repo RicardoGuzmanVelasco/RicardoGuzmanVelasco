@@ -90,7 +90,7 @@
 
 ### GitHub
 
-<img align="left" alt="RGV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=true" />
+![RGV's GitHub stats]("https://github-readme-stats.vercel.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple")
 
 
 ---
