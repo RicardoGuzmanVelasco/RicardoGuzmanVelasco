@@ -85,3 +85,14 @@
 ---
 
 <br />
+
+## Recent activity
+
+### GitHub
+
+<img align="left" alt="RGV's Github Stats" src="https://github-readme-stats.verce.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=true" />
+
+
+---
+
+<br />
