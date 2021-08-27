@@ -90,7 +90,7 @@
 
 ### GitHub
 
-![RGV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple&bg_color=lack,black,black,purple)
+![RGV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple&bg_color=black,black,black,purple)
 
 ### Technologies used in these repos
 
