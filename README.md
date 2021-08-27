@@ -92,9 +92,9 @@
 
 ![RGV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
 
-### Recently used technologies
+### Technologies used in these repos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGuzmanVelasco)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGuzmanVelasco%theme=midnight-purple)
 
 
 ---
