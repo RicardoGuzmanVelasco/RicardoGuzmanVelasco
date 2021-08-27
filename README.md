@@ -94,7 +94,7 @@
 
 ### Technologies used in these repos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGuzmanVelasco&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGuzmanVelasco&theme=midnight-purple&layout=compact)
 
 
 ---
