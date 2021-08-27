@@ -90,11 +90,11 @@
 
 ### GitHub
 
-![RGV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple)
+![RGV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple)
 
 ### Technologies used in these repos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGuzmanVelasco&theme=midnight-purple&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGuzmanVelasco&hide_border=false&theme=midnight-purple&layout=compact)
 
 
 ---
