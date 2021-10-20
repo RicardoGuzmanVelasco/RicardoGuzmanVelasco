@@ -53,13 +53,14 @@
 
 📖 Current readings:
 - Domain-Driven Design; Eric Evans.
+- Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu.
 - The Mythical Man-Month; Fred Brooks.
 
 ⏳ Post-poned readings:
 - The Gamedev Business Handbook; Michael Futter.
 - Clean Code in C#; Jason Alls. 
 
-📚 Last readings:
+📚 Latest readings:
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Working Effectively with Legacy Code; Michael C. Feathers.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
