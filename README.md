@@ -52,18 +52,15 @@
 ## Readings
 
 📖 Current readings:
-- Domain-Driven Design; Eric Evans.
-- Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu.
 - The Mythical Man-Month; Fred Brooks.
+
+📕 Latest readings:
+- Domain-Driven Design; Eric Evans. 
+- Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu
 
 ⏳ Post-poned readings:
 - The Gamedev Business Handbook; Michael Futter.
 - Clean Code in C#; Jason Alls. 
-
-📚 Latest readings:
-- Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
-- Working Effectively with Legacy Code; Michael C. Feathers.
-- The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 
 🔍 Next readings:
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
@@ -75,12 +72,19 @@
 💎 Favourite readings:
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
+- Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
+- Working Effectively with Legacy Code; Michael C. Feathers.
 
 💡 Most-inspiring readings:
 - The Humble Programmer; Edsger W. Dijkstra.
-- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks. 🆕
-- Radically Collaborative Patterns for Software Makers; Matt K. Parker.
+- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
 - TDD by Example; Kent Beck.
+
+📚 Other readings:
+- The Art of Readable Code; Dustin Boswell & Trevor Foucher.
+- Radically Collaborative Patterns for Software Makers; Matt K. Parker.
+- Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
+
 
 
 ---
