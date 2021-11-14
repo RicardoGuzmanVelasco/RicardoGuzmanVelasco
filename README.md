@@ -53,6 +53,7 @@
 
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks.
+- UML Distilled; Martin Fowler. 🆕
 
 📕 Latest readings:
 - Domain-Driven Design; Eric Evans. 
