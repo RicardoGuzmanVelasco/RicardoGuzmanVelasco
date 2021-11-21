@@ -52,12 +52,12 @@
 ## Readings
 
 📖 Current readings:
-- The Mythical Man-Month; Fred Brooks.
-- UML Distilled; Martin Fowler. 🆕
+- The Mythical Man-Month; Fred Brooks. 
 
 📕 Latest readings:
 - Domain-Driven Design; Eric Evans. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu
+- UML Distilled; Martin Fowler. 
 
 ⏳ Post-poned readings:
 - The Gamedev Business Handbook; Michael Futter.
