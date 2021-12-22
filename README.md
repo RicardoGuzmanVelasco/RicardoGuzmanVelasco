@@ -1,4 +1,3 @@
-<!-- Template by codeSTACKr. Watch out! https://github.com/codeSTACKr/codeSTACKr -->
 ### The name is [Ricardo Guzmán Velasco][linkedin]! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rgvgamedev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frgvgamedev&screen_name=RGVgamedev)
@@ -53,6 +52,8 @@
 
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks. 
+- Refactoring: Improving the Design of Existing Code; Martin Fowler (practising with Second Edition).
+- TDD by Example; Kent Beck (again, to reinforce TDD patterns catalog).
 
 📕 Latest readings:
 - Domain-Driven Design; Eric Evans. 
@@ -65,7 +66,6 @@
 
 🔍 Next readings:
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
-- Refactoring: Improving the Design of Existing Code; Martin Fowler (just revision).
 - Extreme Programming Explained; Kent Beck.
 - Continuous Delivery; Dave Farley & Jez Humble.
 - The Art of Unit Testing; Roy Osherove. 
@@ -79,7 +79,6 @@
 💡 Most-inspiring readings:
 - The Humble Programmer; Edsger W. Dijkstra.
 - No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
-- TDD by Example; Kent Beck.
 
 📚 Other readings:
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
