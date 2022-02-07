@@ -54,11 +54,13 @@
 - The Mythical Man-Month; Fred Brooks. 
 - Refactoring: Improving the Design of Existing Code; Martin Fowler (practising with Second Edition).
 - TDD by Example; Kent Beck (again, to reinforce TDD patterns catalog).
+- A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
 
 📕 Latest readings:
 - Domain-Driven Design; Eric Evans. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu
-- UML Distilled; Martin Fowler. 
+- UML Distilled; Martin Fowler.
+- Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
 
 ⏳ Post-poned readings:
 - The Gamedev Business Handbook; Michael Futter.
@@ -79,12 +81,13 @@
 💡 Most-inspiring readings:
 - The Humble Programmer; Edsger W. Dijkstra.
 - No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
+- Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland.
 
 📚 Other readings:
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
-
+- ObjectMother: Easing Test Object Creation in XP. Stephanie Punke, Peter Schuh.
 
 
 ---
