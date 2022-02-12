@@ -53,7 +53,6 @@
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks. 
 - Refactoring: Improving the Design of Existing Code; Martin Fowler (practising with Second Edition).
-- TDD by Example; Kent Beck (again, to reinforce TDD patterns catalog).
 - A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
 
 📕 Latest readings:
@@ -84,6 +83,7 @@
 - Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland.
 
 📚 Other readings:
+- TDD by Example; Kent Beck.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
