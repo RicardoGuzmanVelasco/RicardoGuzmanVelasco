@@ -52,18 +52,12 @@
 
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks. 
-- Refactoring: Improving the Design of Existing Code; Martin Fowler (practising with Second Edition).
-- A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
+- Object Oriented Analysis and Design with Applications; Grady Booch. 
 
 📕 Latest readings:
-- Domain-Driven Design; Eric Evans. 
-- Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu
-- UML Distilled; Martin Fowler.
-- Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
-
-⏳ Post-poned readings:
-- The Gamedev Business Handbook; Michael Futter.
-- Clean Code in C#; Jason Alls. 
+- Refactoring: Improving the Design of Existing Code; Martin Fowler. 
+- A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
+- UML Distilled; Martin Fowler. 
 
 🔍 Next readings:
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
@@ -82,6 +76,7 @@
 - The Humble Programmer; Edsger W. Dijkstra.
 - No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
 - Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland.
+- Domain-Driven Design; Eric Evans.  
 
 📚 Other readings:
 - TDD by Example; Kent Beck.
@@ -89,7 +84,13 @@
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - ObjectMother: Easing Test Object Creation in XP. Stephanie Punke, Peter Schuh.
+- A Laboratory For Teaching Object-Oriented Thinking; Kent Beck, Ward Cunningham. 
+- Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu. 
+- Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig.
 
+⏳ Post-poned readings:
+- The Gamedev Business Handbook; Michael Futter.
+- Clean Code in C#; Jason Alls. 
 
 ---
 
