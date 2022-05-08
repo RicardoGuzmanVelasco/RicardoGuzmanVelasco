@@ -52,7 +52,7 @@
 
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks. 
-- Object Oriented Analysis and Design with Applications; Grady Booch. 
+- Patterns of Enterprise Architecture Analysis; Martin Fowler. 
 
 📕 Latest readings:
 - Refactoring: Improving the Design of Existing Code; Martin Fowler. 
@@ -69,6 +69,7 @@
 💎 Favourite readings:
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
+- Object Oriented Analysis and Design with Applications; Grady Booch.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Working Effectively with Legacy Code; Michael C. Feathers.
 
