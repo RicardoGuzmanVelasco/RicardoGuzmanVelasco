@@ -52,7 +52,7 @@
 
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks. 
-- Patterns of Enterprise Architecture Analysis; Martin Fowler. 
+- Patterns of Enterprise Application Architecture; Martin Fowler. 
 
 📕 Latest readings:
 - Refactoring: Improving the Design of Existing Code; Martin Fowler. 
