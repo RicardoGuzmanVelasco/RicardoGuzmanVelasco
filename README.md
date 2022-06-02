@@ -52,12 +52,14 @@
 
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks. 
-- Patterns of Enterprise Application Architecture; Martin Fowler. 
+- Patterns of Enterprise Application Architecture; Martin Fowler.
+- The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
+- Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 
 📕 Latest readings:
 - Refactoring: Improving the Design of Existing Code; Martin Fowler. 
-- A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
-- UML Distilled; Martin Fowler. 
+- UML Distilled; Martin Fowler.
+- Programming with Abstract Data Types; Barbara Liskov. 
 
 🔍 Next readings:
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
@@ -88,6 +90,7 @@
 - A Laboratory For Teaching Object-Oriented Thinking; Kent Beck, Ward Cunningham. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu. 
 - Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig.
+- A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
 
 ⏳ Post-poned readings:
 - The Gamedev Business Handbook; Michael Futter.
