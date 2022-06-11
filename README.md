@@ -53,12 +53,11 @@
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks. 
 - Patterns of Enterprise Application Architecture; Martin Fowler.
-- The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 
 📕 Latest readings:
+- The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Refactoring: Improving the Design of Existing Code; Martin Fowler. 
-- UML Distilled; Martin Fowler.
 - Programming with Abstract Data Types; Barbara Liskov. 
 
 🔍 Next readings:
@@ -84,6 +83,7 @@
 📚 Other readings:
 - TDD by Example; Kent Beck.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
+- UML Distilled; Martin Fowler.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - ObjectMother: Easing Test Object Creation in XP. Stephanie Punke, Peter Schuh.
