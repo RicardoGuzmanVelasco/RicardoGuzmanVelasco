@@ -61,6 +61,7 @@
 - Programming with Abstract Data Types; Barbara Liskov. 
 
 🔍 Next readings:
+- Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
 - Extreme Programming Explained; Kent Beck.
 - Continuous Delivery; Dave Farley & Jez Humble.
