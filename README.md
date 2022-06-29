@@ -66,6 +66,7 @@
 - Continuous Delivery; Dave Farley & Jez Humble.
 - The Art of Unit Testing; Roy Osherove.
 - Extreme Programming Installed; Ron Jeffries. 
+- Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 
 💎 Favourite readings:
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
