@@ -53,9 +53,9 @@
 📖 Current readings:
 - The Mythical Man-Month; Fred Brooks. 
 - Patterns of Enterprise Application Architecture; Martin Fowler.
-- Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 
 📕 Latest readings:
+- Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Refactoring: Improving the Design of Existing Code; Martin Fowler. 
 - Programming with Abstract Data Types; Barbara Liskov. 
