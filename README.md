@@ -70,17 +70,18 @@
 - Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 
 💎 Favourite readings:
-- The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin.
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
 - Object Oriented Analysis and Design with Applications; Grady Booch.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Working Effectively with Legacy Code; Michael C. Feathers.
+- Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland. 
 
 💡 Most-inspiring readings:
+- The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin. 
+- Extreme Programming Explained (2nd edition); Kent Beck.
+- Domain-Driven Design; Eric Evans.
 - The Humble Programmer; Edsger W. Dijkstra.
-- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
-- Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland.
-- Domain-Driven Design; Eric Evans.  
+- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.  
 
 📚 Other readings:
 - TDD by Example; Kent Beck.
