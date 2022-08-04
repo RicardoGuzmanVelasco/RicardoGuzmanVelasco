@@ -51,7 +51,6 @@
 ## Readings
 
 📖 Current readings:
-- The Mythical Man-Month; Fred Brooks. 
 - Patterns of Enterprise Application Architecture; Martin Fowler.
 
 📕 Latest readings:
@@ -72,6 +71,7 @@
 💎 Favourite readings:
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
 - Object Oriented Analysis and Design with Applications; Grady Booch.
+- The Mythical Man-Month; Fred Brooks.  
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Working Effectively with Legacy Code; Michael C. Feathers.
 - Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland. 
