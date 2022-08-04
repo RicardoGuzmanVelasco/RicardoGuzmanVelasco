@@ -63,7 +63,7 @@
 🔍 Next readings:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
-- Extreme Programming Explained; Kent Beck.
+- Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Continuous Delivery; Dave Farley & Jez Humble.
 - The Art of Unit Testing; Roy Osherove.
 - Extreme Programming Installed; Ron Jeffries. 
