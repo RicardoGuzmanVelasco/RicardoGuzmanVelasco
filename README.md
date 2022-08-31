@@ -50,52 +50,58 @@
 
 ## Readings
 
-📖 Current readings:
+📖 Current:
 - Patterns of Enterprise Application Architecture; Martin Fowler.
+- The Art of Unit Testing; Roy Osherove.
+- Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
+- A Philosophy of Software Design; John Ousterhout.
 
-📕 Latest readings:
+📕 Latest:
+- Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
 - Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
-- Refactoring: Improving the Design of Existing Code; Martin Fowler. 
-- Programming with Abstract Data Types; Barbara Liskov. 
 
-🔍 Next readings:
+🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
-- Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Continuous Delivery; Dave Farley & Jez Humble.
-- The Art of Unit Testing; Roy Osherove.
 - Extreme Programming Installed; Ron Jeffries. 
 - Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 
-💎 Favourite readings:
+💎 Favourite:
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
 - Object Oriented Analysis and Design with Applications; Grady Booch.
-- The Mythical Man-Month; Fred Brooks.  
-- Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
+- The Mythical Man-Month; Fred Brooks.
+- Refactoring: Improving the Design of Existing Code; Martin Fowler. 
 - Working Effectively with Legacy Code; Michael C. Feathers.
-- Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland. 
 
-💡 Most-inspiring readings:
+🧱 Best work-ethical related:
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin. 
 - Extreme Programming Explained (2nd edition); Kent Beck.
+
+💡 Most-inspiring:
 - Domain-Driven Design; Eric Evans.
 - The Humble Programmer; Edsger W. Dijkstra.
-- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.  
+- No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
 
-📚 Other readings:
+📃 Remarkable papers:
+- Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland. 
+- ObjectMother: Easing Test Object Creation in XP; Stephanie Punke, Peter Schuh.
+- A Laboratory For Teaching Object-Oriented Thinking; Kent Beck, Ward Cunningham. 
+- Programming with Abstract Data Types; Barbara Liskov.
+- Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
+
+📚 Others:
 - TDD by Example; Kent Beck.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
+- Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
-- ObjectMother: Easing Test Object Creation in XP. Stephanie Punke, Peter Schuh.
-- A Laboratory For Teaching Object-Oriented Thinking; Kent Beck, Ward Cunningham. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu. 
-- Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig.
 - A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
 
-⏳ Post-poned readings:
+⏳ Post-poned:
 - The Gamedev Business Handbook; Michael Futter.
 - Clean Code in C#; Jason Alls. 
 
