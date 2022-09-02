@@ -89,6 +89,7 @@
 - ObjectMother: Easing Test Object Creation in XP; Stephanie Punke, Peter Schuh.
 - A Laboratory For Teaching Object-Oriented Thinking; Kent Beck, Ward Cunningham. 
 - Programming with Abstract Data Types; Barbara Liskov.
+- On the Criteria To Be Used in Decomposing Systems into Modules; David Parnas. 
 - Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
 
 📚 Others:
