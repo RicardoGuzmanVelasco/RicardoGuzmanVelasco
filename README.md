@@ -51,15 +51,13 @@
 ## Readings
 
 📖 Current:
-- Patterns of Enterprise Application Architecture; Martin Fowler.
 - The Art of Unit Testing; Roy Osherove.
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
-- A Philosophy of Software Design; John Ousterhout.
 
 📕 Latest:
+- Patterns of Enterprise Application Architecture; Martin Fowler.
 - Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
 - Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
-- The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
@@ -94,10 +92,12 @@
 
 📚 Others:
 - TDD by Example; Kent Beck.
+- The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
+- A Philosophy of Software Design; John Ousterhout.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu. 
 - A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
