@@ -51,18 +51,18 @@
 ## Readings
 
 📖 Current:
-- The Art of Unit Testing; Roy Osherove.
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
+- Continuous Delivery; Dave Farley, Jez Humble. 
+- xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
 
 📕 Latest:
+- The Art of Unit Testing; Roy Osherove.
 - Patterns of Enterprise Application Architecture; Martin Fowler.
 - Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
 - Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
-- xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
-- Continuous Delivery; Dave Farley & Jez Humble.
 - Extreme Programming Installed; Ron Jeffries. 
 - Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 
@@ -73,7 +73,7 @@
 - Refactoring: Improving the Design of Existing Code; Martin Fowler. 
 - Working Effectively with Legacy Code; Michael C. Feathers.
 
-🧱 Best work-ethical related:
+⚖️ Best work-ethical related:
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin. 
 - Extreme Programming Explained (2nd edition); Kent Beck.
 
