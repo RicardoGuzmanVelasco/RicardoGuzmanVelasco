@@ -90,6 +90,7 @@
 - On the Criteria To Be Used in Decomposing Systems into Modules; David Parnas. 
 - Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
 - Architectural Blueprints—The “4+1” View Model of Software Architecture; Philippe Kruchten.
+- Recurring Eventsfor Calendars; Martin Fowler.
 
 📚 Others:
 - TDD by Example; Kent Beck.
