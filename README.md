@@ -54,6 +54,7 @@
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Continuous Delivery; Dave Farley, Jez Humble. 
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
+- Surviving Object Oriented Projects; Alistair Cockburn. 
 
 📕 Latest:
 - The Art of Unit Testing; Roy Osherove.
