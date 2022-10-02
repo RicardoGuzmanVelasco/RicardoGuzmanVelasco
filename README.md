@@ -91,8 +91,10 @@
 - Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland.
 - ObjectMother: Easing Test Object Creation in XP; Stephanie Punke, Peter Schuh.
 - A Laboratory For Teaching Object-Oriented Thinking; Kent Beck, Ward Cunningham.
+- Mocks aren't Stubs; Martin Fowler. 
 - Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
 - Recurring Events in Calendars; Martin Fowler.
+
 
 📚 Others:
 - TDD by Example; Kent Beck.
