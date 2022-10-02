@@ -84,14 +84,15 @@
 - No Silver Bullet — Essence and Accidents of Software Engineering; Fred Brooks.
 
 📃 Remarkable papers:
-- Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland. 
-- ObjectMother: Easing Test Object Creation in XP; Stephanie Punke, Peter Schuh.
-- A Laboratory For Teaching Object-Oriented Thinking; Kent Beck, Ward Cunningham. 
-- Programming with Abstract Data Types; Barbara Liskov.
-- On the Criteria To Be Used in Decomposing Systems into Modules; David Parnas. 
-- Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
+- On the Criteria To Be Used in Decomposing Systems into Modules; David Parnas.
 - Architectural Blueprints—The “4+1” View Model of Software Architecture; Philippe Kruchten.
-- Recurring Eventsfor Calendars; Martin Fowler.
+- Programming with Abstract Data Types; Barbara Liskov.
+- Object-Oriented Programming: An Objective Sense of Style; Karl Lieberherr, Ian IIolland, A. Riel.
+- Assuring good style for object-oriented programs; Karl Lieberherr, Ian Holland.
+- ObjectMother: Easing Test Object Creation in XP; Stephanie Punke, Peter Schuh.
+- A Laboratory For Teaching Object-Oriented Thinking; Kent Beck, Ward Cunningham.
+- Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
+- Recurring Events in Calendars; Martin Fowler.
 
 📚 Others:
 - TDD by Example; Kent Beck.
