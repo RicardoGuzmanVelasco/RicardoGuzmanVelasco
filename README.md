@@ -94,6 +94,7 @@
 - Mocks aren't Stubs; Martin Fowler. 
 - Endo-Testing: Unit Testing with Mock Objects; Tim Mackinnon, Steven F. Freeman, Philip Craig. 
 - Recurring Events in Calendars; Martin Fowler.
+- Test infected; Eric Gamma, Kent Beck. 
 
 
 📚 Others:
