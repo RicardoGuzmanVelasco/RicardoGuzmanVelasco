@@ -107,6 +107,7 @@
 - A Philosophy of Software Design; John Ousterhout.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu. 
+- Pragmatic Unit Testing; Jeff Langr, Andy Hunt & Dave Thomas. 
 - A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
 
 ⏳ Post-poned:
