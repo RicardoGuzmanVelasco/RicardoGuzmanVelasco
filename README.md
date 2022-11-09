@@ -64,7 +64,6 @@
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
 - Extreme Programming Installed; Ron Jeffries. 
-- Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 
 💎 Favourite:
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
@@ -95,10 +94,10 @@
 - Recurring Events in Calendars; Martin Fowler.
 - Test infected; Eric Gamma, Kent Beck. 
 
-
 📚 Others:
 - TDD by Example; Kent Beck.
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
+- Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
