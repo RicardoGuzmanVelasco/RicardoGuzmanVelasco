@@ -53,14 +53,13 @@
 📖 Current:
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Continuous Delivery; Dave Farley, Jez Humble. 
-- xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros (just revision).
-- Surviving Object Oriented Projects; Alistair Cockburn. 
+- Writing Effective Use Cases; Alistair Cockburn. 
 
 📕 Latest:
+- xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros.
+- Surviving Object Oriented Projects; Alistair Cockburn. 
 - The Art of Unit Testing; Roy Osherove.
 - Patterns of Enterprise Application Architecture; Martin Fowler.
-- Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
-- Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
@@ -106,7 +105,9 @@
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - A Philosophy of Software Design; John Ousterhout.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
-- Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu. 
+- Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu.
+- Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
+- Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 - Pragmatic Unit Testing; Jeff Langr, Andy Hunt & Dave Thomas. 
 - A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
 
