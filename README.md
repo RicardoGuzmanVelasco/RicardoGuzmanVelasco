@@ -59,7 +59,6 @@
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros.
 - Surviving Object Oriented Projects; Alistair Cockburn. 
 - The Art of Unit Testing; Roy Osherove.
-- Patterns of Enterprise Application Architecture; Martin Fowler.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
@@ -100,8 +99,10 @@
 - Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
+- Use Cases 2.0; Ivar Jacobson.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
+- Patterns of Enterprise Application Architecture; Martin Fowler.
 - A Philosophy of Software Design; John Ousterhout.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu.
