@@ -52,13 +52,12 @@
 
 📖 Current:
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
-- Continuous Delivery; Dave Farley, Jez Humble. 
-- Writing Effective Use Cases; Alistair Cockburn. 
+- Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
-- xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros.
-- Surviving Object Oriented Projects; Alistair Cockburn. 
-- The Art of Unit Testing; Roy Osherove.
+- Writing Effective Use Cases; Alistair Cockburn. 
+- Infrastructure as Code; Kief Morris.
+- Use Case Modeling; Kurt Bittner, Ian Spence.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
@@ -107,6 +106,9 @@
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu.
 - Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
+- xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros.
+- Surviving Object Oriented Projects; Alistair Cockburn. 
+- The Art of Unit Testing; Roy Osherove.
 - Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 - Pragmatic Unit Testing; Jeff Langr, Andy Hunt & Dave Thomas. 
 - A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
