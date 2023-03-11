@@ -111,11 +111,12 @@
 - The Art of Unit Testing; Roy Osherove.
 - Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 - Pragmatic Unit Testing; Jeff Langr, Andy Hunt & Dave Thomas. 
+- Elegant Objects vol. 1; Yegor Bugayenko.
 - A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
 
-⏳ Post-poned:
+🎮 Gamedev-related:
 - The Gamedev Business Handbook; Michael Futter.
-- Clean Code in C#; Jason Alls. 
+- Game Programming Patterns; Robert Nystrom.
 
 ---
 
