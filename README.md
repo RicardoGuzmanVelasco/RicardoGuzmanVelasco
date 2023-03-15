@@ -95,7 +95,7 @@
 📚 Others:
 - TDD by Example; Kent Beck.
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
-- Growing Object-Oriented Software Guided by Tests; Stephen Freeman, Nat Pryce.
+- Growing Object-Oriented Software Guided by Tests; Steve Freeman, Nat Pryce.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
 - Use Cases 2.0; Ivar Jacobson.
