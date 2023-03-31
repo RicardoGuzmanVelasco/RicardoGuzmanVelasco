@@ -51,6 +51,9 @@
 ## Readings
 
 📖 Current:
+- Your Code as a Crime Scene; Adan Thornhill.
+- Extreme Programming Installed; Ron Jeffries.
+- Explore It!; Elisabeth Hendrickson.
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Continuous Delivery; Dave Farley, Jez Humble.
 
@@ -61,7 +64,7 @@
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
-- Extreme Programming Installed; Ron Jeffries. 
+- The Object Advantage; Ivar Jacobson. 
 
 💎 Favourite:
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
