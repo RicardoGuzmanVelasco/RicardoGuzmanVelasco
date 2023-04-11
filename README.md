@@ -52,12 +52,12 @@
 
 📖 Current:
 - Your Code as a Crime Scene; Adan Thornhill.
-- Extreme Programming Installed; Ron Jeffries.
 - Explore It!; Elisabeth Hendrickson.
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
+- Extreme Programming Installed; Ron Jeffries.
 - Writing Effective Use Cases; Alistair Cockburn. 
 - Infrastructure as Code; Kief Morris.
 - Use Case Modeling; Kurt Bittner, Ian Spence.
