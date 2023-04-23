@@ -121,6 +121,7 @@
 🎮 Gamedev-related:
 - The Gamedev Business Handbook; Michael Futter.
 - Game Programming Patterns; Robert Nystrom.
+- Clockwork Game Design; Keith Burgun.
 
 ---
 
