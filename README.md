@@ -57,10 +57,10 @@
 - Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
+- Concurrency in C# Cookbook; Stephen Cleary.
 - Extreme Programming Installed; Ron Jeffries.
 - Writing Effective Use Cases; Alistair Cockburn. 
 - Infrastructure as Code; Kief Morris.
-- Use Case Modeling; Kurt Bittner, Ian Spence.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
@@ -101,6 +101,7 @@
 - Growing Object-Oriented Software Guided by Tests; Steve Freeman, Nat Pryce.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
+- Use Case Modeling; Kurt Bittner, Ian Spence.
 - Use Cases 2.0; Ivar Jacobson.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
