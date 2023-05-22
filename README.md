@@ -52,12 +52,12 @@
 
 📖 Current:
 - Your Code as a Crime Scene; Adan Thornhill.
-- Explore It!; Elisabeth Hendrickson.
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
 - Concurrency in C# Cookbook; Stephen Cleary.
+- Explore It!; Elisabeth Hendrickson.
 - Extreme Programming Installed; Ron Jeffries.
 - Writing Effective Use Cases; Alistair Cockburn. 
 - Infrastructure as Code; Kief Morris.
