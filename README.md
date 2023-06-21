@@ -52,7 +52,6 @@
 
 📖 Current:
 - Your Code as a Crime Scene; Adan Thornhill.
-- Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
@@ -74,8 +73,9 @@
 - Working Effectively with Legacy Code; Michael C. Feathers.
 
 ⚖️ Best work-ethical related:
-- The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin. 
+- Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
 - Extreme Programming Explained (2nd edition); Kent Beck.
+- The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin. 
 
 💡 Most-inspiring:
 - Domain-Driven Design; Eric Evans.
