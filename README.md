@@ -52,6 +52,9 @@
 
 📖 Current:
 - Your Code as a Crime Scene; Adan Thornhill.
+- The Object Advantage; Ivar Jacobson.
+- Dependency Injection; Mark Seeman, Steven van Deursen.
+- Functional Programming in C#; Enrico Buonanno.
 - Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
@@ -63,7 +66,6 @@
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
-- The Object Advantage; Ivar Jacobson. 
 
 💎 Favourite:
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
