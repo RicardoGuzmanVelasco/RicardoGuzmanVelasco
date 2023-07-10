@@ -109,6 +109,7 @@
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - Patterns of Enterprise Application Architecture; Martin Fowler.
 - A Philosophy of Software Design; John Ousterhout.
+- Design by Contact by Example; Jim McKim, Richard Mitchell.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu.
 - Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
