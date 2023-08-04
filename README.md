@@ -51,18 +51,16 @@
 ## Readings
 
 📖 Current:
-- Your Code as a Crime Scene; Adan Thornhill.
 - The Object Advantage; Ivar Jacobson.
 - Dependency Injection; Mark Seeman, Steven van Deursen.
 - Functional Programming in C#; Enrico Buonanno.
 - Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
-- Concurrency in C# Cookbook; Stephen Cleary.
+- Your Code as a Crime Scene; Adan Tornhill.
 - Explore It!; Elisabeth Hendrickson.
 - Extreme Programming Installed; Ron Jeffries.
-- Writing Effective Use Cases; Alistair Cockburn. 
-- Infrastructure as Code; Kief Morris.
+- Writing Effective Use Cases; Alistair Cockburn.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
@@ -104,11 +102,13 @@
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
 - Use Case Modeling; Kurt Bittner, Ian Spence.
+- Concurrency in C# Cookbook; Stephen Cleary.
 - Use Cases 2.0; Ivar Jacobson.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - Patterns of Enterprise Application Architecture; Martin Fowler.
 - A Philosophy of Software Design; John Ousterhout.
+- Infrastructure as Code; Kief Morris.
 - Design by Contact by Example; Jim McKim, Richard Mitchell.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu.
