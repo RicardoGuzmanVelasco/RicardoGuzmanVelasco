@@ -99,6 +99,8 @@
 - TDD by Example; Kent Beck.
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Growing Object-Oriented Software Guided by Tests; Steve Freeman, Nat Pryce.
+- Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
+- Dependency Injection; Mark Seeman.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
 - Use Case Modeling; Kurt Bittner, Ian Spence.
@@ -112,7 +114,6 @@
 - Design by Contact by Example; Jim McKim, Richard Mitchell.
 - Agile Design with TDD (Spanish: Diseño ágil con TDD); Carlos Blé. 
 - Domain-Driven Design Quickly; Abel Avram, Floyd Marinescu.
-- Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
 - xUnit Test Patterns: Refactoring Test Code; Gerard Meszaros.
 - Surviving Object Oriented Projects; Alistair Cockburn. 
 - The Art of Unit Testing; Roy Osherove.
