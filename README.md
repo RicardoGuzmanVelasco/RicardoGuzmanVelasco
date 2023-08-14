@@ -52,14 +52,12 @@
 
 📖 Current:
 - The Object Advantage; Ivar Jacobson.
-- Dependency Injection; Mark Seeman, Steven van Deursen.
 - Functional Programming in C#; Enrico Buonanno.
 - Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
 - Your Code as a Crime Scene; Adan Tornhill.
 - Explore It!; Elisabeth Hendrickson.
-- Extreme Programming Installed; Ron Jeffries.
 - Writing Effective Use Cases; Alistair Cockburn.
 
 🔍 Next:
@@ -100,7 +98,8 @@
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Growing Object-Oriented Software Guided by Tests; Steve Freeman, Nat Pryce.
 - Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
-- Dependency Injection; Mark Seeman.
+- Dependency Injection; Mark Seeman, Steven van Deursen.
+- Extreme Programming Installed; Ron Jeffries.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
 - UML Distilled; Martin Fowler.
 - Use Case Modeling; Kurt Bittner, Ian Spence.
