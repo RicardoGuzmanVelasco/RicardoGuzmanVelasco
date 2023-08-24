@@ -51,13 +51,12 @@
 ## Readings
 
 📖 Current:
-- The Object Advantage; Ivar Jacobson.
 - Functional Programming in C#; Enrico Buonanno.
 - Continuous Delivery; Dave Farley, Jez Humble.
 
 📕 Latest:
+- The Object Advantage; Ivar Jacobson.
 - Your Code as a Crime Scene; Adan Tornhill.
-- Explore It!; Elisabeth Hendrickson.
 - Writing Effective Use Cases; Alistair Cockburn.
 
 🔍 Next:
@@ -98,6 +97,7 @@
 - The Unified Software Development Process; Ivar Jacobson, Grady Booch; James Rumbaugh.
 - Growing Object-Oriented Software Guided by Tests; Steve Freeman, Nat Pryce.
 - Continuous integration; Andrew Glover, Paul Duvall, and Steve Matyas.
+- Explore It!; Elisabeth Hendrickson.
 - Dependency Injection; Mark Seeman, Steven van Deursen.
 - Extreme Programming Installed; Ron Jeffries.
 - The Art of Readable Code; Dustin Boswell & Trevor Foucher.
