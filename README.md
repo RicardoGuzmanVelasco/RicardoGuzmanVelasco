@@ -51,13 +51,14 @@
 ## Readings
 
 📖 Current:
-- Functional Programming in C#; Enrico Buonanno.
 - Continuous Delivery; Dave Farley, Jez Humble.
+- Remote; DHH.
+- Thinking in Systems; Donella Meadows.
+- Microsoft DSL Tools; Steve Cook.
 
 📕 Latest:
 - The Object Advantage; Ivar Jacobson.
-- Your Code as a Crime Scene; Adan Tornhill.
-- Writing Effective Use Cases; Alistair Cockburn.
+- Functional Programming in C#; Enrico Buonanno.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
@@ -104,6 +105,8 @@
 - UML Distilled; Martin Fowler.
 - Use Case Modeling; Kurt Bittner, Ian Spence.
 - Concurrency in C# Cookbook; Stephen Cleary.
+- Your Code as a Crime Scene; Adan Tornhill.
+- Writing Effective Use Cases; Alistair Cockburn.
 - Use Cases 2.0; Ivar Jacobson.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
