@@ -52,13 +52,15 @@
 
 📖 Current:
 - Continuous Delivery; Dave Farley, Jez Humble.
-- Remote; DHH.
 - Thinking in Systems; Donella Meadows.
-- Microsoft DSL Tools; Steve Cook.
+- Staff Engineer; Will Larson.
+- Team of Teams; Stanley A. McChrystal.
+
 
 📕 Latest:
 - The Object Advantage; Ivar Jacobson.
 - Functional Programming in C#; Enrico Buonanno.
+- Technical Agile Coaching with the Samman method; Emily Bache.
 
 🔍 Next:
 - Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
@@ -72,7 +74,9 @@
 
 ⚖️ Best work-ethical related:
 - Peopleware: Productive Projects and Teams; Tom DeMarco, Timothy Lister.
+- The Software Craftsman; Sandro Mancuso.
 - Extreme Programming Explained (2nd edition); Kent Beck.
+- Remote; DHH.
 - The Clean Coder: A Code of Conduct for Professional Programmers; Robert Martin. 
 
 💡 Most-inspiring:
@@ -108,6 +112,7 @@
 - Your Code as a Crime Scene; Adan Tornhill.
 - Writing Effective Use Cases; Alistair Cockburn.
 - Use Cases 2.0; Ivar Jacobson.
+- Elastic Leadership; Roy Oshevore.
 - Head First Design Patterns; Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra.
 - Radically Collaborative Patterns for Software Makers; Matt K. Parker.
 - Patterns of Enterprise Application Architecture; Martin Fowler.
@@ -122,6 +127,7 @@
 - Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
 - Pragmatic Unit Testing; Jeff Langr, Andy Hunt & Dave Thomas. 
 - Elegant Objects vol. 1; Yegor Bugayenko.
+- Microsoft DSL Tools; Steve Cook.
 - A Guide to the SCRUM BODY OF KNOWLEDGE (SBOK™ Guide).
 
 🎮 Gamedev-related:
