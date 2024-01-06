@@ -50,20 +50,13 @@
 
 ## Readings
 
-📖 Current:
-- Continuous Delivery; Dave Farley, Jez Humble.
-- Thinking in Systems; Donella Meadows.
-- Staff Engineer; Will Larson.
-- Team of Teams; Stanley A. McChrystal.
+⚠️ This list is condensed and outdated.
 
+⚠️ It is unlikely to be updated anymore.
 
-📕 Latest:
-- The Object Advantage; Ivar Jacobson.
-- Functional Programming in C#; Enrico Buonanno.
-- Technical Agile Coaching with the Samman method; Emily Bache.
+👉 For a complete and updated list, go to [my Goodreads](https://www.goodreads.com/review/list/167525924-ricardo-guzm-n-velasco?shelf=read).
 
-🔍 Next:
-- Object Design: Roles, Responsibilities, and Collaborations; Rebecca Wirfs-Brock, Alan Mckean.
+ &nbsp;
 
 💎 Favourite:
 - Unit Testing Principles, Practices and Patterns; Vladimir Khorikov.
@@ -125,6 +118,9 @@
 - Surviving Object Oriented Projects; Alistair Cockburn. 
 - The Art of Unit Testing; Roy Osherove.
 - Accelerate: The Science of Lean Software and Devops; Nicole Forsgren, Gene Kim, Jez Humble.
+- The Object Advantage; Ivar Jacobson.
+- Functional Programming in C#; Enrico Buonanno.
+- Technical Agile Coaching with the Samman method; Emily Bache.
 - Pragmatic Unit Testing; Jeff Langr, Andy Hunt & Dave Thomas. 
 - Elegant Objects vol. 1; Yegor Bugayenko.
 - Microsoft DSL Tools; Steve Cook.
