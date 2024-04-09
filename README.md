@@ -3,9 +3,9 @@
 ## About me
 
 🏳️‍🌈 He/Him.  
-🗺 Spanish, English.
+🗺 Spain (Spanish, English).
 
-- 🎮👨‍💻 Gamedev.  
+- 🎮👨‍💻 Gamedev | Tech lead & coach. 
 - 🏗️🏭 Focus on software architecture & development processes.  
 - 🏛️🗼 Strong interest in well-known, established design principles.  
 - 👥🤝 Team culture as a cornerstone.
@@ -130,21 +130,6 @@
 - The Gamedev Business Handbook; Michael Futter.
 - Game Programming Patterns; Robert Nystrom.
 - Clockwork Game Design; Keith Burgun.
-
----
-
-<br />
-
-## Recent activity
-
-### GitHub
-
-![RGV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoGuzmanVelasco&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&count_private=true&hide=stars&theme=midnight-purple)
-
-### Technologies used in these repos
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoGuzmanVelasco&hide_border=false&theme=midnight-purple&layout=compact)
-
 
 ---
 
